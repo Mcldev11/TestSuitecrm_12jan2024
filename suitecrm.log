@@ -1,0 +1,46 @@
+Mon Apr 17 09:24:52 2023 [20608][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Mon Apr 17 09:24:56 2023 [20608][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Mon Apr 17 09:24:57 2023 [20608][1][FATAL] Email address save error
+Mon Apr 17 09:29:43 2023 [20608][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Mon Apr 17 09:29:43 2023 [20608][1][SECURITY] Setting logger_file_ext to '.log'.
+Mon Apr 17 09:29:43 2023 [20608][1][SECURITY] Setting logger_file_name to ''.
+Mon Apr 17 09:29:43 2023 [20608][1][SECURITY] Log file extension can't be blank.
+Mon Apr 17 09:29:43 2023 [20608][1][SECURITY] Setting logger_file_name to ''.
+Mon Apr 17 09:29:43 2023 [20608][1][SECURITY] Log file extension can't be blank.
+Wed Jun 28 14:31:03 2023 [23436][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Jun 28 14:31:06 2023 [23436][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Tue Sep 12 11:38:04 2023 [7776][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Sep 12 11:38:07 2023 [7776][-none-][FATAL] FAILED LOGIN:attempts[1], ip[127.0.0.1], username[admin]
+Tue Sep 12 12:02:38 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 12:02:38 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 12:02:38 2023 [7776][1][FATAL] DeployedMetaDataImplementation: cannot convert from EditView to QuickCreate for Module Groups - definitions for EditView are missing
+Tue Sep 12 12:02:38 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 12:02:38 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: cannot convert from EditView to QuickCreate for Module Groups - definitions for EditView are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: cannot convert from EditView to QuickCreate for Module Groups - definitions for EditView are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 12:02:40 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 14:12:29 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 14:12:29 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: cannot convert from EditView to QuickCreate for Module Groups - definitions for EditView are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: cannot convert from EditView to QuickCreate for Module Groups - definitions for EditView are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: cannot convert from EditView to QuickCreate for Module Groups - definitions for EditView are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View basic_search and Module Groups are missing
+Tue Sep 12 14:12:30 2023 [7776][1][FATAL] DeployedMetaDataImplementation: view definitions for View advanced_search and Module Groups are missing
+Tue Sep 12 14:13:52 2023 [7776][1][FATAL] Error: Module dash_DashboardManager does not exist.
+Tue Oct 10 09:02:14 2023 [12916][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Oct 10 09:02:21 2023 [12916][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]

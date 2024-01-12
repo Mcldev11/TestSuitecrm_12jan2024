@@ -1,0 +1,5 @@
+config_override.php
+cache/
+modules/*/Ext/Language/
+modules/*/Ext/Vardefs/
+upload/
